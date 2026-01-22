@@ -1,3 +1,5 @@
+![BSides Manchester preview](assets/cover.jpg)
+
 # BSides Manchester (revival)
 
 Lean, volunteer-run, community security event for builders & breakers.
